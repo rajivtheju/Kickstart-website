@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+Kickstart: Strat learning from scracth
+Welcome to Kickstart!
+Kickstart is the ultimate destination for aspiring programmers looking to embark on their coding journey. Our platform is specially designed with beginners in mind, providing a comprehensive and engaging environment to help you start from scratch and reach new heights in the world of programming.
+A Perfect Student Should be a Proper User
+At Kickstart, we believe that a perfect student is one who uses the resources available to their full potential. That’s why we offer not just learning materials, but a full suite of tools and services to help you practice coding, prepare for technical interviews, and build impressive resumes.
+Learning at Kickstart
+Kickstart offers tutorials for the basics of C, Python, Java, and C++ programming languages. Each tutorial is designed to be easy to learn, making it perfect for beginners. Our step-by-step guides will take you from understanding the fundamentals to writing your first programs.
+* C Tutorial: Basics of C programming for beginners.
+* Python Tutorial: Basics of Python programming for beginners.
+* Java Tutorial: Basics of Java programming for beginners.
+* C++ Tutorial: Basics of C++ programming for beginners.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Practice Coding
+Understanding the theory is only the first step. At Kickstart, we provide a platform for you to practice coding and improve your skills. With our curated set of 100 interview questions across multiple programming languages like C, C++, Java, JavaScript, SQL, HTML, and CSS, you can prepare for your next technical interview with confidence.
 
-In the project directory, you can run:
+Meet "TILLU" - Our Code Editor
+"TILLU" is an online code editor that allows you to write, compile, and run C, C++, Python, and Java programs seamlessly. Here are some of the features that make TILLU stand out:
+* Multi-language Support: Code and compile programs in multiple programming languages within a single platform.
+* Real-time Collaboration: Collaborate in real-time with multiple developers, enhancing productivity and teamwork.
+Interview Preparation
+Prepare for technical interviews with our top 100 questions in each language. Our extensive collection of interview questions is designed to help you understand the types of questions you might face and how to approach solving them.
 
-### `npm start`
+Resume Building
+In today’s competitive job market, an ATS-friendly resume can make all the difference. Kickstart offers editable resume templates from Overleaf, an online collaborative LaTeX editor, allowing you to create, edit, and publish professional resumes seamlessly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Doubt Clarification and Content Writing Services
+We understand that learning to code can be challenging. That’s why we offer one-to-one doubt clarification through our WhatsApp and Telegram groups. Additionally, Kickstart provides expert content writing services at minimal charges to help you with your assignments and projects.
+Join Us on Social Media
+Stay connected with Kickstart through our social media channels. Join our WhatsApp and Telegram groups to stay updated with the latest news, tutorials, and coding challenges.
+Contact Information
+If you have any queries regarding Kickstart, you can directly contact our team. They are always ready to guide you.
+* Phone: +91 9550837034
+* Email:rajivthejutheju@gmail.com
+* Address: 517102, Tirupati, Andhra Pradesh, India
+Conclusion
+Kickstart is specially made for beginners. Our mission is to help you in your career, and seeing you succeed is the best gift for us. Don’t miss this opportunity to upgrade your skill set. Learn, practice, and grow with Kickstart!
+About the Author
+Rajiv Muddukuppam is a Junior Frontend Developer and the mind behind Kickstart. With a passion for teaching and coding, Rajiv aims to make learning programming accessible and enjoyable for everyone.
+* Website:https://portfolio-a5c86.web.app/
+* Phone: +91 9550837034
+© 2024 Copyright: Rajivtheju
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
