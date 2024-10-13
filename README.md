@@ -10,6 +10,8 @@ Kickstart offers tutorials for the basics of C, Python, Java, and C++ programmin
 * Python Tutorial: Basics of Python programming for beginners.
 * Java Tutorial: Basics of Java programming for beginners.
 * C++ Tutorial: Basics of C++ programming for beginners.
+![image](https://github.com/user-attachments/assets/f208a910-2f74-4af7-b572-d0679d08e746)
+![image](https://github.com/user-attachments/assets/6c4c6169-9503-4526-b0ae-f9daab29c421)
 
 
 Practice Coding
@@ -17,10 +19,13 @@ Understanding the theory is only the first step. At Kickstart, we provide a plat
 
 Meet "TILLU" - Our Code Editor
 "TILLU" is an online code editor that allows you to write, compile, and run C, C++, Python, and Java programs seamlessly. Here are some of the features that make TILLU stand out:
+![image](https://github.com/user-attachments/assets/6019abf3-4be6-46b6-a101-ff208bd470ee)
+
 * Multi-language Support: Code and compile programs in multiple programming languages within a single platform.
 * Real-time Collaboration: Collaborate in real-time with multiple developers, enhancing productivity and teamwork.
 Interview Preparation
 Prepare for technical interviews with our top 100 questions in each language. Our extensive collection of interview questions is designed to help you understand the types of questions you might face and how to approach solving them.
+![image](https://github.com/user-attachments/assets/ebcc7f08-e139-4698-af9d-9ab2cacd950b)
 
 Resume Building
 In today’s competitive job market, an ATS-friendly resume can make all the difference. Kickstart offers editable resume templates from Overleaf, an online collaborative LaTeX editor, allowing you to create, edit, and publish professional resumes seamlessly.
