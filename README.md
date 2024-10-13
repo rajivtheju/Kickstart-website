@@ -19,7 +19,7 @@ Understanding the theory is only the first step. At Kickstart, we provide a plat
 
 Meet "TILLU" - Our Code Editor
 "TILLU" is an online code editor that allows you to write, compile, and run C, C++, Python, and Java programs seamlessly. Here are some of the features that make TILLU stand out:
-![image](https://github.com/user-attachments/assets/6019abf3-4be6-46b6-a101-ff208bd470ee)
+
 
 * Multi-language Support: Code and compile programs in multiple programming languages within a single platform.
 * Real-time Collaboration: Collaborate in real-time with multiple developers, enhancing productivity and teamwork.
