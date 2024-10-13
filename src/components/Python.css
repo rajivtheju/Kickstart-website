@@ -1,0 +1,101 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    height: 100vh;
+    transition: background-color 0.3s ease;
+  }
+  
+  .bright-mode {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark-mode {
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+  
+  .code-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .code-input {
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: background-color 0.3s ease;
+  }
+  
+  .run-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .copy-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .output-panel {
+    width: 100%;
+  }
+  
+  .output-console {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow-y: auto;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .mode-toggle-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    .code-input {
+      height: 200px;
+    }
+  
+    .output-console {
+      height: 150px;
+    }
+  }
+  

@@ -1,0 +1,31 @@
+pre{
+  background-color: #EBF7E3;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow:0,0,10px , black ;
+  
+}
+h2{
+color: #1B3409;
+}
+h3{
+  color: #66B032;
+}
+:hover.lang{
+ background-color: green;
+ color: white;
+ padding: 10px;
+ border-radius: 5px;
+ transition:0.4s ;
+}
+.lang{
+  box-shadow: 0 0 1px grey;
+  padding: 10px;
+}
+.langname{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+}
